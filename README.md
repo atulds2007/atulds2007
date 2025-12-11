@@ -31,7 +31,7 @@ My goal is to build a solid foundation that enables me to contribute meaningfull
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=jaispritam&theme=react&hide_border=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaispritam&theme=react&hide_border=false&layout=compact" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulds2007&theme=react&hide_border=false&layout=compact" height="150"/>
 </p>
 
 ---
