@@ -1,5 +1,10 @@
 <h1 align="center">Hey there! I'm Atul Das 👋👩🏾‍💻</h1>
 
+<p align="center">
+  <img src="./terminal.svg" />
+</p>
+
+
 ---
 
 ### 🧠 About Me:
