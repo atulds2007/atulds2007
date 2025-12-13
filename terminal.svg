@@ -17,7 +17,7 @@
 
   <!-- Line 1 -->
   <text x="20" y="40">
-    &gt; 💻 Software Developer 
+    &gt; Software Developer 
     <animate attributeName="opacity" from="0" to="1" dur="0.8s" fill="freeze"/>
   </text>
 
