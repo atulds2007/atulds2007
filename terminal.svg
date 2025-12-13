@@ -1,0 +1,46 @@
+<svg viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" rx="12" fill="#0d1117"/>
+
+  <style>
+    text {
+      font-family: monospace;
+      font-size: 18px;
+      fill: #39ff14;
+    }
+    .cursor {
+      animation: blink 1s steps(1) infinite;
+    }
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+  </style>
+
+  <!-- Line 1 -->
+  <text x="20" y="40">
+    &gt; Hi, I'm Atul
+    <animate attributeName="opacity" from="0" to="1" dur="0.8s" fill="freeze"/>
+  </text>
+
+  <!-- Line 2 -->
+  <text x="20" y="68" opacity="0">
+    &gt; BTech CSE Student
+    <animate attributeName="opacity" from="0" to="1" begin="1s" dur="0.8s" fill="freeze"/>
+  </text>
+
+  <!-- Line 3 -->
+  <text x="20" y="96" opacity="0">
+    &gt; Learning C, Python, Web Dev
+    <animate attributeName="opacity" from="0" to="1" begin="2s" dur="0.8s" fill="freeze"/>
+  </text>
+
+  <!-- Line 4 -->
+  <text x="20" y="124" opacity="0">
+    &gt; Building cool stuff 🚀
+    <animate attributeName="opacity" from="0" to="1" begin="3s" dur="0.8s" fill="freeze"/>
+  </text>
+
+  <!-- Cursor -->
+  <text x="20" y="152" class="cursor">
+    █
+  </text>
+</svg>
