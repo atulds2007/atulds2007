@@ -1,5 +1,3 @@
-![Terminal](./terminal.svg)
-
 <h1 align="center">Hey there! I'm Atul Das 👋👩🏾‍💻</h1>
 <h3 align="center">💻 Software Developer | Aspiring Full-Stack Engineer | Passionate about Clean Code</h3>
 
