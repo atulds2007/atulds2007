@@ -17,19 +17,19 @@
 
   <!-- Line 1 -->
   <text x="20" y="40">
-    &gt; Hi, I'm Atul
+    &gt; 💻 Software Developer 
     <animate attributeName="opacity" from="0" to="1" dur="0.8s" fill="freeze"/>
   </text>
 
   <!-- Line 2 -->
   <text x="20" y="68" opacity="0">
-    &gt; BTech CSE Student
+    &gt; Aspiring Full-Stack Engineer
     <animate attributeName="opacity" from="0" to="1" begin="1s" dur="0.8s" fill="freeze"/>
   </text>
 
   <!-- Line 3 -->
   <text x="20" y="96" opacity="0">
-    &gt; Learning C, Python, Web Dev
+    &gt; Passionate about Clean Code
     <animate attributeName="opacity" from="0" to="1" begin="2s" dur="0.8s" fill="freeze"/>
   </text>
 
